@@ -1,6 +1,6 @@
 # Awesome Archivy
 
-![logo](img/logo.png)
+![logo](https://raw.githubusercontent.com/archivy/archivy/master/docs/img/logo.png)
 
 Logo design by [Roy Quilor](https://www.quilor.com/) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0)
 
