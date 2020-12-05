@@ -11,5 +11,5 @@ The plugin system that facilitates the creation of these extensions was merged t
 
 ## Digital Preservation
 
-- The first archivy plugin, [`archivy_pocket`](https://github.com/archivy/archivy_pocket) - which allows you to sync your saved pocket bookmarks to archivy.
-- [`archivy_hn`](https://github.com/archivy/archivy_hn) - sync your upvoted / favorited hacker news posts (including comments) to archivy. 
+- The first archivy plugin, [`archivy-pocket`](https://github.com/archivy/archivy-pocket) - which allows you to sync your saved pocket bookmarks to archivy.
+- [`archivy-hn`](https://github.com/archivy/archivy-hn) - sync your upvoted / favorited hacker news posts (including comments) to archivy. 
