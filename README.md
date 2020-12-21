@@ -8,6 +8,9 @@ This is a list of projects, extensions and tools that are built around the [Arch
 
 The plugin system that facilitates the creation of these extensions was merged today, so the list is pretty sparse for now but if you make a plugin you'd like to share, please add it here and try to also a "category" in which it fits if you can't find any.
 
+## Integrations
+
+- [Git](https://github.com/archivy/archivy-git) - adds version control to your installation with automated pull / push to a remote repository.
 
 ## Digital Preservation
 
