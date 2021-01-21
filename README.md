@@ -16,3 +16,11 @@ The plugin system that facilitates the creation of these extensions was merged t
 
 - The first archivy plugin, [`archivy-pocket`](https://github.com/archivy/archivy-pocket) - which allows you to sync your saved pocket bookmarks to archivy.
 - [`archivy-hn`](https://github.com/archivy/archivy-hn) - sync your upvoted / favorited hacker news posts (including comments) to archivy. 
+
+## Ideas
+
+Collection of projects and ideas that could be implemented as plugins, but don't yet exist.
+
+- Spaced Repetition: daily quizzes on your knowledge base, helping you retain information efficiently.
+- Static Site Generator: generate a static, searchable website from your knowledge base.
+- Integration to download Reddit content, for example.
