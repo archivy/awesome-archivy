@@ -15,7 +15,8 @@ The plugin system that facilitates the creation of these extensions was merged t
 ## Digital Preservation
 
 - The first archivy plugin, [`archivy-pocket`](https://github.com/archivy/archivy-pocket) - which allows you to sync your saved pocket bookmarks to archivy.
-- [`archivy-hn`](https://github.com/archivy/archivy-hn) - sync your upvoted / favorited hacker news posts (including comments) to archivy. 
+- [`archivy-hn`](https://github.com/archivy/archivy-hn) - sync your upvoted / favorited hacker news posts (including comments) to archivy.
+- [`archivy-firefox`](https://github.com/archivy/archivy-firefox) - download Firefox bookmarks into Archivy.
 
 ## Other
 
@@ -27,3 +28,4 @@ Collection of projects and ideas that could be implemented as plugins, but don't
 
 - Spaced Repetition: daily quizzes on your knowledge base, helping you retain information efficiently.
 - Integration to download Reddit content, for example.
+- Archivy-NLP: use AI to draw links and create structure around your knowledge base (work in progress by @Uzay-G).
